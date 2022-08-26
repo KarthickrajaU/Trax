@@ -1,0 +1,7 @@
+<resources>
+    <string name="app_name">Trax</string>
+    <string name="latitude">latitude</string>
+    <string name="update">update</string>
+    <string name="longitude">longitude</string>
+    <string name="service">Service</string>
+</resources>
